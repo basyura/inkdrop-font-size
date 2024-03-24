@@ -1,7 +1,7 @@
 {
   "name": "font-size",
   "main": "./lib/font-size",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Change the font size",
   "keywords": [],
   "repository": "https://github.com/basyura/inkdrop-font-size.git",
