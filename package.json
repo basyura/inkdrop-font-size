@@ -2,7 +2,7 @@
   "name": "font-size",
   "main": "./lib/font-size",
   "version": "0.1.0",
-  "description": "Change the font size",
+  "description": "Inkdrop's plugin that concurrently adjusts the font size in both the editor and preview.",
   "keywords": [],
   "repository": "https://github.com/basyura/inkdrop-font-size.git",
   "license": "MIT",
