@@ -2,9 +2,9 @@
   "name": "font-size",
   "main": "./lib/font-size",
   "version": "0.0.0",
-  "description": "font-size",
+  "description": "Change the font size",
   "keywords": [],
-  "repository": "git remote add origin git@github.com:basyura/inkdrop-font-size.git",
+  "repository": "git@github.com:basyura/inkdrop-font-size.git",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
